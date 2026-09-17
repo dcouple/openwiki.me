@@ -1,3 +1,5 @@
+![Openwiki — a pixel-art private library and public reading gazebo](docs/assets/openwiki-banner.png)
+
 # openwiki.me
 
 Landing page for [openwiki](https://github.com/dcouple/openwiki) — the

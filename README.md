@@ -2,7 +2,7 @@
 
 # openwiki.me
 
-Landing page for [openwiki](https://github.com/dcouple/openwiki) — the
+Landing page for [openwiki](https://github.com/greenfield-inc/openwiki) — the
 agent-maintained personal wiki and public site.
 
 Served via GitHub Pages at <https://openwiki.me>.
